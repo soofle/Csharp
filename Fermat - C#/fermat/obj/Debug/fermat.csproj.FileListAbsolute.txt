@@ -1,0 +1,28 @@
+F:\clase 3\tp2\fermat\fermat\bin\Debug\fermat.exe.config
+F:\clase 3\tp2\fermat\fermat\bin\Debug\fermat.exe
+F:\clase 3\tp2\fermat\fermat\bin\Debug\fermat.pdb
+F:\clase 3\tp2\fermat\fermat\obj\Debug\fermat.csprojResolveAssemblyReference.cache
+F:\clase 3\tp2\fermat\fermat\obj\Debug\fermat.FormP.resources
+F:\clase 3\tp2\fermat\fermat\obj\Debug\fermat.Properties.Resources.resources
+F:\clase 3\tp2\fermat\fermat\obj\Debug\fermat.csproj.GenerateResource.Cache
+F:\clase 3\tp2\fermat\fermat\obj\Debug\fermat.exe
+F:\clase 3\tp2\fermat\fermat\obj\Debug\fermat.pdb
+C:\Users\alumnos.ALUMNOS\Desktop\sofivarela\clase 3 y 4\tp2\fermat\fermat\obj\Debug\fermat.csprojResolveAssemblyReference.cache
+C:\Users\alumnos.ALUMNOS\Desktop\sofivarela\clase 3 y 4\tp2\fermat\fermat\obj\Debug\fermat.FormP.resources
+C:\Users\alumnos.ALUMNOS\Desktop\sofivarela\clase 3 y 4\tp2\fermat\fermat\obj\Debug\fermat.Properties.Resources.resources
+C:\Users\alumnos.ALUMNOS\Desktop\sofivarela\clase 3 y 4\tp2\fermat\fermat\obj\Debug\fermat.csproj.GenerateResource.Cache
+C:\Users\alumnos.ALUMNOS\Desktop\sofivarela\clase 3 y 4\tp2\fermat\fermat\obj\Debug\fermat.exe
+C:\Users\alumnos.ALUMNOS\Desktop\sofivarela\clase 3 y 4\tp2\fermat\fermat\obj\Debug\fermat.pdb
+C:\Users\alumnos.ALUMNOS\Desktop\sofivarela\clase 3 y 4\tp2\fermat\fermat\bin\Debug\fermat.exe.config
+C:\Users\alumnos.ALUMNOS\Desktop\sofivarela\clase 3 y 4\tp2\fermat\fermat\bin\Debug\fermat.exe
+C:\Users\alumnos.ALUMNOS\Desktop\sofivarela\clase 3 y 4\tp2\fermat\fermat\bin\Debug\fermat.pdb
+C:\Users\Usuario\Desktop\FACULTAD\4 AÑO\CMS\TP2 Fermat\fermat\fermat\obj\Debug\fermat.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\FACULTAD\4 AÑO\CMS\TP2 Fermat\fermat\fermat\obj\Debug\fermat.FormP.resources
+C:\Users\Usuario\Desktop\FACULTAD\4 AÑO\CMS\TP2 Fermat\fermat\fermat\obj\Debug\fermat.Properties.Resources.resources
+C:\Users\Usuario\Desktop\FACULTAD\4 AÑO\CMS\TP2 Fermat\fermat\fermat\obj\Debug\fermat.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\FACULTAD\4 AÑO\CMS\TP2 Fermat\fermat\fermat\obj\Debug\fermat.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\FACULTAD\4 AÑO\CMS\TP2 Fermat\fermat\fermat\obj\Debug\fermat.exe
+C:\Users\Usuario\Desktop\FACULTAD\4 AÑO\CMS\TP2 Fermat\fermat\fermat\obj\Debug\fermat.pdb
+C:\Users\Usuario\Desktop\FACULTAD\4 AÑO\CMS\TP2 Fermat\fermat\fermat\bin\Debug\fermat.exe.config
+C:\Users\Usuario\Desktop\FACULTAD\4 AÑO\CMS\TP2 Fermat\fermat\fermat\bin\Debug\fermat.exe
+C:\Users\Usuario\Desktop\FACULTAD\4 AÑO\CMS\TP2 Fermat\fermat\fermat\bin\Debug\fermat.pdb
